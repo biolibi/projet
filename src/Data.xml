@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<Donne>
+
+    <nbCentre>10</nbCentre>
+
+
+        <Dechet>
+            <Nom>Gadolinium</Nom>
+            <masseVolumique>50</masseVolumique>
+            <pourcentage>20</pourcentage>
+        </Dechet>
+
+        <Dechet>
+            <Nom>Neptunium</Nom>
+            <masseVolumique>140</masseVolumique>
+            <pourcentage>44</pourcentage>
+        </Dechet>
+
+        <Dechet>
+            <Nom>Plutonium</Nom>
+            <masseVolumique>120</masseVolumique>
+            <pourcentage>40</pourcentage>
+        </Dechet>
+
+        <Dechet>
+            <Nom>Terbium</Nom>
+            <masseVolumique>100</masseVolumique>
+            <pourcentage>40</pourcentage>
+        </Dechet>
+
+        <Dechet>
+            <Nom>Thulium</Nom>
+            <masseVolumique>26</masseVolumique>
+            <pourcentage>10</pourcentage>
+        </Dechet>
+
+
+        <Planete>
+
+            <Nom>Alpha</Nom>
+            <nbGadolinium>25</nbGadolinium>
+            <nbNeptunium>10</nbNeptunium>
+            <nbPlutonium>30</nbPlutonium>
+            <nbTerbium>20</nbTerbium>
+            <nbThulium>15</nbThulium>
+        </Planete>
+
+        <Planete>
+
+            <Nom>Bravo</Nom>
+            <nbGadolinium>35</nbGadolinium>
+            <nbNeptunium>10</nbNeptunium>
+            <nbPlutonium>20</nbPlutonium>
+            <nbTerbium>15</nbTerbium>
+            <nbThulium>20</nbThulium>
+        </Planete>
+
+        <Planete>
+            <Nom>Charlie</Nom>
+            <nbGadolinium>25</nbGadolinium>
+            <nbNeptunium>10</nbNeptunium>
+            <nbPlutonium>25</nbPlutonium>
+            <nbTerbium>35</nbTerbium>
+            <nbThulium>5</nbThulium>
+        </Planete>
+
+        <Planete>
+            <Nom>Delta</Nom>
+            <nbGadolinium>15</nbGadolinium>
+            <nbNeptunium>20</nbNeptunium>
+            <nbPlutonium>25</nbPlutonium>
+            <nbTerbium>30</nbTerbium>
+            <nbThulium>10</nbThulium>
+        </Planete>
+
+        <Planete>
+            <Nom>Quebec</Nom>
+            <nbGadolinium>5</nbGadolinium>
+            <nbNeptunium>20</nbNeptunium>
+            <nbPlutonium>50</nbPlutonium>
+            <nbTerbium>15</nbTerbium>
+            <nbThulium>10</nbThulium>
+        </Planete>
+
+
+    <Vaisseaux>
+        <nbLeger>10</nbLeger>
+        <nbNormal>10</nbNormal>
+        <nbLourd>10</nbLourd>
+    </Vaisseaux>
+</Donne>
